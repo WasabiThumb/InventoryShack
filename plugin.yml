@@ -1,0 +1,10 @@
+main: cx.wasabi.ish.Main
+name: InventoryShack
+version: 1.0
+api-version: 1.13
+author: Wasabi_Thumbs
+description: Manage inventories with many options!
+commands:
+   ish:
+      description: InventoryShack general info
+      usage: /<command>
